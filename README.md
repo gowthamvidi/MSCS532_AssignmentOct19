@@ -25,8 +25,6 @@ Both algorithms are tested with various input distributions to observe performan
 
 
 ### **Summary of Findings**
-
-
 Distribution             Algorithm             Time        First 10 Elements
 -----------------------------------------------------------------------------
 Random (n=10)            quicksort             0.000024s   [1, 2, 3, 5, 7, 8, 9, 10]  
